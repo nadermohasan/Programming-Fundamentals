@@ -1,7 +1,7 @@
 # Programming Foundations – Learning Journey
 
 This repository contains my complete set of practice codes, solutions, and mini-projects developed while following **Dr. Mohammed Abu-Hadhoud’s Programming Foundations Roadmap**.  
-It documents my step-by-step learning process, from basic programming concepts to advanced topics in C++, C#, databases, and full-stack development.
+It documents my step-by-step learning process, from basic programming concepts to advanced topics in C++, C#, OOP, Data Structures, Databases, and Full-Stack Development.
 
 ---
 
@@ -69,3 +69,33 @@ It documents my step-by-step learning process, from basic programming concepts t
 ---
 
 ## 📂 Repository Structure
+/Phase_1_Core_Foundations
+    /01_Foundations_Level_1
+    /02_Algorithms_Level_1
+    /03_CPP_Level_1
+    /04_Advanced_Solutions_Algorithms_Level_1
+    /05_Algorithms_Level_2
+    /06_CPP_Level_2
+    /07_Algorithms_Level_3
+    /08_Algorithms_Level_4
+    /09_Foundations_Level_2
+    /10_OOP_CPP_Level_1
+    /11_OOP_CPP_Level_2
+    /12_Data_Structures_Level_1
+    /13_Algorithms_Level_5
+
+/Phase_2_Desktop_Development
+    /14_CSharp_Level_1
+    /15_Database_Level_1_SQL
+    /16_OOP_in_CSharp
+    /17_Database_Project
+    /18_CSharp_and_Database
+    /19_Full_Project_in_CSharp
+    /20_CSharp_Level_2
+    /21_Database_Level_2_TSQL
+    /22_Data_Structures_Level_2
+    /23_Algorithms_Level_6
+    /24_Windows_Services
+
+/Phase_3_Backend_Integration
+    /RESTful_API_DotNetCore
