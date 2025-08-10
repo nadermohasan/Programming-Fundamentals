@@ -6,6 +6,7 @@ It documents my step-by-step learning process, from basic programming concepts t
 ---
 
 ## 📚 Learning Roadmap
+![jlJAuzdhQsaQppzKYUR9_1000116077](https://github.com/user-attachments/assets/16fadc0f-89c4-4f15-85a7-91a37a845878)
 
 ### **Phase 1 – Core Foundations** (Blue)
 1. Foundations Level 1  
