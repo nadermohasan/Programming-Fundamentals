@@ -71,34 +71,61 @@ It documents my step-by-step learning process, from basic programming concepts t
 ## 📂 Repository Structure
 
 **PHASE 1 – Core Foundations"**
+
 /01.Foundations-LEVEL1
+
 /02.Algorithms-LEVEL1
+
 /03.CPP-LEVEL1
+
 /04.Advanced-Solutions-Algorithms-LEVEL1
+
 /05.Algorithms-LEVEL2
+
 /06.CPP-LEVEL2
+
 /07.Algorithms-LEVEL3
+
 /08.Algorithms-LEVEL4
+
 /09.Foundations-LEVEL2
+
 /10.OOP-CPP-LEVEL1
+
 /11.OOP-CPP-LEVEL2
+
 /12.Data-Structures-LEVEL1
+
 /13.Algorithms-LEVEL5
 
 
 **PHASE 2 – Core Foundations LEVEL 2**
+
 /14.C#_LEVEL1
+
 /15.SQL-Database-LEVEL1
+
 /16.OOP-in-C#-LEVEL1
+
 /17.Database-Project-LEVEL1
+
 /18.C#-and-Database-LEVEL1
+
 /19.Full-Project-in-C#-LEVEL1
+
 /20.C#_LEVEL2
+
 /21.TSQL-Database-LEVEL2
+
 /22.Data-Structures-LEVEL2
+
 /23.Algorithms-LEVEL6
+
 /24.Windows-Services-LEVEL1
+
 /25.SOLID-Principles-LEVEL1
 
+
 **PHASE 3 – Backend Integration**
+
 /01.RESTful-API-DotNetCore-LEVEL1
