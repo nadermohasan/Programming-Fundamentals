@@ -70,62 +70,49 @@ It documents my step-by-step learning process, from basic programming concepts t
 
 ## 📂 Repository Structure
 
-**PHASE 1 – Core Foundations"**
+---
 
-/01.Foundations-LEVEL1
+## **PHASE 1 – Core Foundations**
 
-/02.Algorithms-LEVEL1
+1. [Foundations - Level 1](01.Foundations-LEVEL1)
+2. [Algorithms - Level 1](02.Algorithms-LEVEL1)
+3. [C++ - Level 1](03.CPP-LEVEL1)
+4. [Advanced Solutions - Algorithms - Level 1](04.Advanced-Solutions-Algorithms-LEVEL1)
+5. [Algorithms - Level 2](05.Algorithms-LEVEL2)
+6. [C++ - Level 2](06.CPP-LEVEL2)
+7. [Algorithms - Level 3](07.Algorithms-LEVEL3)
+8. [Algorithms - Level 4](08.Algorithms-LEVEL4)
+9. [Foundations - Level 2](09.Foundations-LEVEL2)
+10. [OOP in C++ - Level 1](10.OOP-CPP-LEVEL1)
+11. [OOP in C++ - Level 2](11.OOP-CPP-LEVEL2)
+12. [Data Structures - Level 1](12.Data-Structures-LEVEL1)
+13. [Algorithms - Level 5](13.Algorithms-LEVEL5)
 
-/03.CPP-LEVEL1
+---
 
-/04.Advanced-Solutions-Algorithms-LEVEL1
+## **PHASE 2 – Core Foundations Level 2**
 
-/05.Algorithms-LEVEL2
+14. [C# - Level 1](14.C#_LEVEL1)  
+15. [SQL Database - Level 1](15.SQL-Database-LEVEL1)  
+16. [OOP in C# - Level 1](16.OOP-in-C#-LEVEL1)  
+17. [Database Project - Level 1](17.Database-Project-LEVEL1)  
+18. [C# and Database - Level 1](18.C#-and-Database-LEVEL1)  
+19. [Full Project in C# - Level 1](19.Full-Project-in-C#-LEVEL1)  
+20. [C# - Level 2](20.C#_LEVEL2)  
+21. [T-SQL Database - Level 2](21.TSQL-Database-LEVEL2)  
+22. [Data Structures - Level 2](22.Data-Structures-LEVEL2)  
+23. [Algorithms - Level 6](23.Algorithms-LEVEL6)  
+24. [Windows Services - Level 1](24.Windows-Services-LEVEL1)  
+25. [SOLID Principles - Level 1](25.SOLID-Principles-LEVEL1)  
 
-/06.CPP-LEVEL2
+---
 
-/07.Algorithms-LEVEL3
+## **PHASE 3 – Backend Integration**
 
-/08.Algorithms-LEVEL4
+1. [RESTful API - .NET Core - Level 1](01.RESTful-API-DotNetCore-LEVEL1)
 
-/09.Foundations-LEVEL2
+---
 
-/10.OOP-CPP-LEVEL1
-
-/11.OOP-CPP-LEVEL2
-
-/12.Data-Structures-LEVEL1
-
-/13.Algorithms-LEVEL5
-
-
-**PHASE 2 – Core Foundations LEVEL 2**
-
-/14.C#_LEVEL1
-
-/15.SQL-Database-LEVEL1
-
-/16.OOP-in-C#-LEVEL1
-
-/17.Database-Project-LEVEL1
-
-/18.C#-and-Database-LEVEL1
-
-/19.Full-Project-in-C#-LEVEL1
-
-/20.C#_LEVEL2
-
-/21.TSQL-Database-LEVEL2
-
-/22.Data-Structures-LEVEL2
-
-/23.Algorithms-LEVEL6
-
-/24.Windows-Services-LEVEL1
-
-/25.SOLID-Principles-LEVEL1
-
-
-**PHASE 3 – Backend Integration**
-
-/01.RESTful-API-DotNetCore-LEVEL1
+### 💡 Note
+- The course **"SOLID Principles"** is the final course in the roadmap.  
+- Dr. Abdu Hadhood recommends taking this course **after completing OOP**.
