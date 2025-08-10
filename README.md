@@ -114,5 +114,5 @@ It documents my step-by-step learning process, from basic programming concepts t
 ---
 
 ### 💡 Note
-- The course **"SOLID Principles"** is the final course in the roadmap.  
+- The course **"SOLID Principles"** is an additional course in the roadmap.  
 - Dr. Abdu Hadhood recommends taking this course **after completing OOP**.
