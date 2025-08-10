@@ -103,13 +103,13 @@ It documents my step-by-step learning process, from basic programming concepts t
 22. [Data Structures - Level 2](22.Data-Structures-LEVEL2)  
 23. [Algorithms - Level 6](23.Algorithms-LEVEL6)  
 24. [Windows Services - Level 1](24.Windows-Services-LEVEL1)  
-25. [SOLID Principles - Level 1](25.SOLID-Principles-LEVEL1)  
+25. [SOLID Principles](25.SOLID-Principles)  
 
 ---
 
 ## **PHASE 3 – Backend Integration**
 
-1. [RESTful API - .NET Core - Level 1](01.RESTful-API-DotNetCore-LEVEL1)
+1. [RESTful API - .NET Core](01.RESTful-API-.NETCore)
 
 ---
 
