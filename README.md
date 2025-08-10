@@ -69,33 +69,36 @@ It documents my step-by-step learning process, from basic programming concepts t
 ---
 
 ## 📂 Repository Structure
-/Phase_1_Core_Foundations
-    /01_Foundations_Level_1
-    /02_Algorithms_Level_1
-    /03_CPP_Level_1
-    /04_Advanced_Solutions_Algorithms_Level_1
-    /05_Algorithms_Level_2
-    /06_CPP_Level_2
-    /07_Algorithms_Level_3
-    /08_Algorithms_Level_4
-    /09_Foundations_Level_2
-    /10_OOP_CPP_Level_1
-    /11_OOP_CPP_Level_2
-    /12_Data_Structures_Level_1
-    /13_Algorithms_Level_5
 
-/Phase_2_Desktop_Development
-    /14_CSharp_Level_1
-    /15_Database_Level_1_SQL
-    /16_OOP_in_CSharp
-    /17_Database_Project
-    /18_CSharp_and_Database
-    /19_Full_Project_in_CSharp
-    /20_CSharp_Level_2
-    /21_Database_Level_2_TSQL
-    /22_Data_Structures_Level_2
-    /23_Algorithms_Level_6
-    /24_Windows_Services
+**PHASE 1 – Core Foundations"**
+/01.Foundations-LEVEL1
+/02.Algorithms-LEVEL1
+/03.CPP-LEVEL1
+/04.Advanced-Solutions-Algorithms-LEVEL1
+/05.Algorithms-LEVEL2
+/06.CPP-LEVEL2
+/07.Algorithms-LEVEL3
+/08.Algorithms-LEVEL4
+/09.Foundations-LEVEL2
+/10.OOP-CPP-LEVEL1
+/11.OOP-CPP-LEVEL2
+/12.Data-Structures-LEVEL1
+/13.Algorithms-LEVEL5
 
-/Phase_3_Backend_Integration
-    /RESTful_API_DotNetCore
+
+**PHASE 2 – Core Foundations LEVEL 2**
+/14.C#_LEVEL1
+/15.SQL-Database-LEVEL1
+/16.OOP-in-C#-LEVEL1
+/17.Database-Project-LEVEL1
+/18.C#-and-Database-LEVEL1
+/19.Full-Project-in-C#-LEVEL1
+/20.C#_LEVEL2
+/21.TSQL-Database-LEVEL2
+/22.Data-Structures-LEVEL2
+/23.Algorithms-LEVEL6
+/24.Windows-Services-LEVEL1
+/25.SOLID-Principles-LEVEL1
+
+**PHASE 3 – Backend Integration**
+/01.RESTful-API-DotNetCore-LEVEL1
