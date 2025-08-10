@@ -74,9 +74,9 @@ It documents my step-by-step learning process, from basic programming concepts t
 
 ## **PHASE 1 – Core Foundations**
 
-1. [Foundations - Level 1]
-2. [Algorithms - Level 1 | Flow Charts]
-3. [C++ - Level 1]
+1. Foundations - LEVEL1
+2. Algorithms - LEVEL1 (Flow Charts)
+3. C++ - LEVEL1
 4. [Algorithms - Level 1](04.Algorithms-LEVEL1)
 5. [Algorithms - Level 2](05.Algorithms-LEVEL2)
 6. [C++ - Level 2](06.CPP-LEVEL2)
