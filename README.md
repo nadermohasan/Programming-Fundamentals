@@ -25,7 +25,7 @@ It documents my step-by-step learning process, from basic programming concepts t
 
 ---
 
-### **Phase 2 – Desktop Development** (Yellow)
+### **Phase 2 – Core Foundations Level 2** (Yellow)
 14. C# Level 1  
 15. Database Level 1: SQL  
 16. OOP in C#  
