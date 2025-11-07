@@ -79,12 +79,12 @@ It documents my step-by-step learning process, from basic programming concepts t
 3. C++ - LEVEL1
 4. [Algorithms - Level 1](04.Algorithms-LEVEL1)
 5. [Algorithms - Level 2](05.Algorithms-LEVEL2)
-6. [C++ - Level 2](06.CPP-LEVEL2)
+6. C++ - LEVEL2
 7. [Algorithms - Level 3](07.Algorithms-LEVEL3)
 8. [Algorithms - Level 4](08.Algorithms-LEVEL4)
-9. [Foundations - Level 2](09.Foundations-LEVEL2)
-10. [OOP in C++ - Level 1](10.OOP-CPP-LEVEL1)
-11. [OOP in C++ - Level 2](11.OOP-CPP-LEVEL2)
+9. Foundations-LEVEL2
+10. OOP as it Should Be (Concepts)
+11. [OOP as it Should Be (Applications)](OOP as it Should Be (Applications))
 12. [Data Structures - Level 1](12.Data-Structures-LEVEL1)
 13. [Algorithms - Level 5](13.Algorithms-LEVEL5)
 
