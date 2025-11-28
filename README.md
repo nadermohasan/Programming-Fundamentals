@@ -84,7 +84,7 @@ It documents my step-by-step learning process, from basic programming concepts t
 8. [Algorithms - Level 4](08.Algorithms-LEVEL4)
 9. Foundations-LEVEL2
 10. OOP as it Should Be (Concepts)
-11. [OOP as it Should Be (Applications)](OOP as it Should Be (Applications))
+11. [OOP as it Should Be (Applications)](OOP-as-it-Should-Be-(Applications))
 12. [Data Structures - Level 1](12.Data-Structures-LEVEL1)
 13. [Algorithms - Level 5](13.Algorithms-LEVEL5)
 
